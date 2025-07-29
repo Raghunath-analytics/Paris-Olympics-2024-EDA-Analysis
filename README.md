@@ -1,4 +1,4 @@
-# 🏅 Paris Olympics 2024 - Data Analysis & Insights
+# 🏅 Paris Olympics 2024 - Exploratory Data Analysis 
 
 This project presents a comprehensive **Exploratory Data Analysis (EDA)** of the **Paris Olympics 2024**, focusing on medal performance, sport dominance, athlete demographics, and comparison with Tokyo 2020. The objective is to uncover meaningful patterns, trends, and statistics through interactive visualizations and structured analysis.
 
